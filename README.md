@@ -10,6 +10,7 @@ Learning through building, breaking, and figuring things out one bug at a time �
 
 ## ⚙️ Projects in Progress:
 - 🔒 Simple Password Manager
+- 🛒 Shopping cart in C
 - 🧱 Simple firewall
 - 🎮 Rock-Paper-Scissors Game in Python
 
