@@ -14,11 +14,6 @@ Learning through building, breaking, and figuring things out one bug at a time �
 - 🧱 Simple firewall
 - 🎮 Rock-Paper-Scissors Game in Python
 
-## 🍟 Fun Facts:
-- Certified fries addict 😅
-- Obsessed with learning things that break other things 🔧🧨
-- Learning in public — feel free to follow along!
-
 ## 📫 Reach Me
 - Email: yvonnemoseti71@gmail.com
 
